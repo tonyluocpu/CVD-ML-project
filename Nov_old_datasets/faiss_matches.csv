@@ -52,7 +52,7 @@ Query,Best Match
 10monroe,10monroe
 10new castle,10new
 10sussex,10sussex
-11district of columbia ,11district
+11district of columbia,11district
 11montgomery,11montgomery
 11morgan,11morgan
 11perry,11perry
@@ -298,7 +298,7 @@ Query,Best Match
 13worth,13worth
 15hawaiʻi,15hawaii
 15honolulu,15honolulu
-15kalawao ,15kalawao
+15kalawao,15kalawao
 15kauaʻi,15kauai
 15maui,15maui
 16ada,16ada
@@ -639,14 +639,14 @@ Query,Best Match
 19worth,19worth
 19wright,19wright
 20aleutians east,20aleutians
-20aleutians west ,20aleutians
+20aleutians west,20aleutians
 20allen,20allen
 20anchorage,20anchorage
 20anderson,20anderson
 20atchison,20atchison
 20barber,20barber
 20barton,20barton
-20bethel ,20bethel
+20bethel,20bethel
 20bourbon,20bourbon
 20bristol bay,20bristol
 20brown,20brown
@@ -665,7 +665,7 @@ Query,Best Match
 20decatur,20decatur
 20denali,20denali
 20dickinson,20dickinson
-20dillingham ,20dillingham
+20dillingham,20dillingham
 20doniphan,20doniphan
 20douglas,20douglas
 20edwards,20edwards
@@ -805,7 +805,7 @@ Query,Best Match
 21henderson,21henderson
 21henry,21henry
 21hickman,21hickman
-21hoonah-angoon ,21hopkins
+21hoonah-angoon,21hopkins
 21hopkins,21hopkins
 21jackson,21jackson
 21jefferson,21jefferson
@@ -850,7 +850,7 @@ Query,Best Match
 21muhlenberg,21muhlenberg
 21nelson,21nelson
 21nicholas,21nicholas
-21nome ,21nome
+21nome,21nome
 21north slope,21north
 21northwest arctic,21northwest
 21ohio,21ohio
@@ -859,10 +859,10 @@ Query,Best Match
 21owsley,21owsley
 21pendleton,21pendleton
 21perry,21perry
-21petersburg ,21pendleton
+21petersburg,21pendleton
 21pike,21pike
 21powell,21powell
-21prince of wales-hyder ,21perry
+21prince of wales-hyder,21perry
 21pulaski,21pulaski
 21robertson,21robertson
 21rockcastle,21rockcastle
@@ -929,7 +929,7 @@ Query,Best Match
 22sabine,22sabine
 22sitka,22sitka
 22skagway,22sitka
-22southeast fairbanks ,22southeast
+22southeast fairbanks,22southeast
 22st. bernard,22st.
 22st. charles,22st.
 22st. helena,22st.
@@ -943,10 +943,10 @@ Query,Best Match
 22tensas,22tensas
 22terrebonne,22terrebonne
 22union,22union
-22valdez-cordova ,22vermilion
+22valdez-cordova,22vermilion
 22vermilion,22vermilion
 22vernon,22vernon
-22wade hampton ,22washington
+22wade hampton,22washington
 22washington,22washington
 22webster,22webster
 22west baton rouge,22west
@@ -955,7 +955,7 @@ Query,Best Match
 22winn,22winn
 22wrangell,22winn
 22yakutat,22yakutat
-22yukon-koyukuk ,22yukon-koyukuk
+22yukon-koyukuk,22yukon-koyukuk
 23androscoggin,23androscoggin
 23aroostook,23aroostook
 23cumberland,23cumberland
@@ -975,7 +975,7 @@ Query,Best Match
 24allegany,24allegany
 24anne arundel,24anne
 24baltimore,24baltimore
-24baltimore ,24baltimore
+24baltimore,24baltimore
 24calvert,24calvert
 24caroline,24caroline
 24carroll,24carroll
@@ -1363,7 +1363,7 @@ Query,Best Match
 29st. clair,29st.
 29st. francois,29st.
 29st. louis,29st.
-29st. louis ,29st.
+29st. louis,29st.
 29ste. genevieve,29ste.
 29stoddard,29stoddard
 29stone,29stone
@@ -1526,7 +1526,7 @@ Query,Best Match
 31webster,31webster
 31wheeler,31wheeler
 31york,31york
-32carson city ,32carson
+32carson city,32carson
 32churchill,32churchill
 32clark,32clark
 32douglas,32douglas
@@ -1609,7 +1609,7 @@ Query,Best Match
 35valencia,35valencia
 36albany,36albany
 36allegany,36allegany
-36bronx ,36bronx
+36bronx,36bronx
 36broome,36broome
 36cattaraugus,36cattaraugus
 36cayuga,36cayuga
@@ -1630,14 +1630,14 @@ Query,Best Match
 36hamilton,36hamilton
 36herkimer,36herkimer
 36jefferson,36jefferson
-36kings ,36kings
+36kings,36kings
 36lewis,36lewis
 36livingston,36livingston
 36madison,36madison
 36monroe,36monroe
 36montgomery,36montgomery
 36nassau,36nassau
-36new york ,36new
+36new york,36new
 36niagara,36niagara
 36oneida,36oneida
 36onondaga,36onondaga
@@ -1647,9 +1647,9 @@ Query,Best Match
 36oswego,36oswego
 36otsego,36otsego
 36putnam,36putnam
-36queens ,36queens
+36queens,36queens
 36rensselaer,36rensselaer
-36richmond ,36richmond
+36richmond,36richmond
 36rockland,36rockland
 36saratoga,36saratoga
 36schenectady,36schenectady
@@ -2105,11 +2105,11 @@ Query,Best Match
 42westmoreland,42westmoreland
 42wyoming,42wyoming
 42york,42york
-44bristol ,44bristol
-44kent ,44kent
-44newport ,44newport
-44providence ,44providence
-44washington ,44washington
+44bristol,44bristol
+44kent,44kent
+44newport,44newport
+44providence,44providence
+44washington,44washington
 45abbeville,45abbeville
 45aiken,45aiken
 45allendale,45allendale
@@ -2206,7 +2206,7 @@ Query,Best Match
 46miner,46miner
 46minnehaha,46minnehaha
 46moody,46moody
-46oglala lakota ,46oglala
+46oglala lakota,46oglala
 46pennington,46pennington
 46perkins,46perkins
 46potter,46potter
@@ -2215,7 +2215,7 @@ Query,Best Match
 46spink,46spink
 46stanley,46stanley
 46sully,46sully
-46todd ,46todd
+46todd,46todd
 46tripp,46tripp
 46turner,46turner
 46union,46union
@@ -2666,7 +2666,7 @@ Query,Best Match
 50windsor,50windsor
 51accomack,51accomack
 51albemarle,51albemarle
-51alexandria ,51alexandria
+51alexandria,51alexandria
 51alleghany,51alleghany
 51amelia,51amelia
 51amherst,51amherst
@@ -2675,44 +2675,44 @@ Query,Best Match
 51augusta,51augusta
 51bath,51bath
 51bedford,51bedford
-51bedford ,51bedford
+51bedford,51bedford
 51bland,51bland
 51botetourt,51botetourt
-51bristol ,51bristol
+51bristol,51bristol
 51brunswick,51brunswick
 51buchanan,51buchanan
 51buckingham,51buckingham
-51buena vista ,51buena
+51buena vista,51buena
 51campbell,51campbell
 51caroline,51caroline
 51carroll,51carroll
 51charles city,51charles
 51charlotte,51charlotte
-51charlottesville ,51charlottesville
-51chesapeake ,51chesapeake
+51charlottesville,51charlottesville
+51chesapeake,51chesapeake
 51chesterfield,51chesterfield
 51clarke,51clarke
-51colonial heights ,51colonial
-51covington ,51covington
+51colonial heights,51colonial
+51covington,51covington
 51craig,51craig
 51culpeper,51culpeper
 51cumberland,51cumberland
-51danville ,51danville
+51danville,51danville
 51dickenson,51dickenson
 51dinwiddie,51dinwiddie
-51emporia ,51emporia
+51emporia,51emporia
 51essex,51essex
 51fairfax,51fairfax
-51fairfax ,51fairfax
-51falls church ,51falls
+51fairfax,51fairfax
+51falls church,51falls
 51fauquier,51fauquier
 51floyd,51floyd
 51fluvanna,51fluvanna
 51franklin,51franklin
-51franklin ,51franklin
+51franklin,51franklin
 51frederick,51frederick
-51fredericksburg ,51fredericksburg
-51galax ,51galax
+51fredericksburg,51fredericksburg
+51galax,51galax
 51giles,51giles
 51gloucester,51gloucester
 51goochland,51goochland
@@ -2720,13 +2720,13 @@ Query,Best Match
 51greene,51greene
 51greensville,51greensville
 51halifax,51halifax
-51hampton ,51hampton
+51hampton,51hampton
 51hanover,51hanover
-51harrisonburg ,51harrisonburg
+51harrisonburg,51harrisonburg
 51henrico,51henrico
 51henry,51henry
 51highland,51highland
-51hopewell ,51hopewell
+51hopewell,51hopewell
 51isle of wight,51isle
 51james city,51james
 51king and queen,51king
@@ -2734,42 +2734,42 @@ Query,Best Match
 51king william,51king
 51lancaster,51lancaster
 51lee,51lee
-51lexington ,51lexington
+51lexington,51lexington
 51loudoun,51loudoun
 51louisa,51louisa
 51lunenburg,51lunenburg
-51lynchburg ,51lynchburg
+51lynchburg,51lynchburg
 51madison,51madison
-51manassas ,51manassas
-51manassas park ,51manassas
-51martinsville ,51martinsville
+51manassas,51manassas
+51manassas park,51manassas
+51martinsville,51martinsville
 51mathews,51mathews
 51mecklenburg,51mecklenburg
 51middlesex,51middlesex
 51montgomery,51montgomery
 51nelson,51nelson
 51new kent,51new
-51newport news ,51newport
+51newport news,51newport
 51newton,51newton
-51norfolk ,51norfolk
+51norfolk,51norfolk
 51northampton,51northampton
 51northumberland,51northumberland
-51norton ,51norton
+51norton,51norton
 51nottoway,51nottoway
 51orange,51orange
 51ouachita,51ouachita
 51page,51page
 51patrick,51patrick
 51perry,51perry
-51petersburg ,51petersburg
+51petersburg,51petersburg
 51phillips,51phillips
 51pike,51pike
 51pittsylvania,51pittsylvania
 51poinsett,51poinsett
 51polk,51polk
 51pope,51pope
-51poquoson ,51poquoson
-51portsmouth ,51portsmouth
+51poquoson,51poquoson
+51portsmouth,51portsmouth
 51powhatan,51powhatan
 51prairie,51prairie
 51prince edward,51prince
@@ -2777,17 +2777,17 @@ Query,Best Match
 51prince william,51prince
 51pulaski,51pulaski
 51pulaski,51pulaski
-51radford ,51radford
+51radford,51radford
 51randolph,51randolph
 51rappahannock,51rappahannock
 51richmond,51richmond
-51richmond ,51richmond
+51richmond,51richmond
 51roanoke,51roanoke
-51roanoke ,51roanoke
+51roanoke,51roanoke
 51rockbridge,51rockbridge
 51rockingham,51rockingham
 51russell,51russell
-51salem ,51salem
+51salem,51salem
 51saline,51saline
 51scott,51scott
 51scott,51scott
@@ -2801,23 +2801,23 @@ Query,Best Match
 51spotsylvania,51spotsylvania
 51st. francis,51st.
 51stafford,51stafford
-51staunton ,51staunton
+51staunton,51staunton
 51stone,51stone
-51suffolk ,51suffolk
+51suffolk,51suffolk
 51surry,51surry
 51sussex,51sussex
 51tazewell,51tazewell
 51union,51union
 51van buren,51van
-51virginia beach ,51virginia
+51virginia beach,51virginia
 51warren,51warren
 51washington,51washington
 51washington,51washington
-51waynesboro ,51waynesboro
+51waynesboro,51waynesboro
 51westmoreland,51westmoreland
 51white,51white
-51williamsburg ,51williamsburg
-51winchester ,51winchester
+51williamsburg,51williamsburg
+51winchester,51winchester
 51wise,51wise
 51woodruff,51woodruff
 51wythe,51wythe
@@ -3134,11 +3134,11 @@ Query,Best Match
 81washington,81washington
 81weld,81weld
 81yuma,81yuma
-90fairfield ,90fairfield
-90hartford ,90hartford
-90litchfield ,90litchfield
-90middlesex ,90middlesex
-90new haven ,90new
-90new london ,90new
-90tolland ,90tolland
-90windham ,90windham
+90fairfield,90fairfield
+90hartford,90hartford
+90litchfield,90litchfield
+90middlesex,90middlesex
+90new haven,90new
+90new london,90new
+90tolland,90tolland
+90windham,90windham
